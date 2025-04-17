@@ -34,7 +34,7 @@ openai / Claude / ollama / gemini / deepseek / qwen
 
 # 产品化 
 使用系统中创建各种 prompt,知识库,tools等组件组合成一个应用(app)对外部进入对话与输出.
-基础能力如下:
+## 基础能力:
 * 集成多个大模型接口
 * prompt (提示词)
 * RAG (知识库)
@@ -44,5 +44,7 @@ openai / Claude / ollama / gemini / deepseek / qwen
 * 语音输入
 * 对话语音输出
 * 应用暴露API供外部使用
-* Coding
+## 高级功能
+* 摄像头集成/视觉大模型
+* Coding 编码任务
   
