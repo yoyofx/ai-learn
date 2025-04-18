@@ -1,18 +1,18 @@
 # 技术
 
 # Python
-* FastAPI
+* [FastAPI](https://fastapi.tiangolo.com/)
 
-## langchian 
+## [langchian](https://python.langchain.com/docs)
  * openai (了解openai 接口和兼容的模型)
  * prompt ( input )
  * output ( sync,stream ) 
  * memory (大语言模型的记忆能力)
  * agent  (规划任务)
 
-## MCP
-* server (多语言实现)
-* client ( SDK Client / ( Cherry Studio /  Claude / Cline) )
+## [MCP](https://modelcontextprotocol.io/introduction)
+* [server](https://github.com/punkpeye/awesome-mcp-servers) (多语言实现)
+* [client](https://github.com/punkpeye/awesome-mcp-clients/) ( SDK Client / ( Cherry Studio /  Claude / Cline) )
 
 ## RAG
 * 嵌入向量/向量数据库
@@ -20,21 +20,21 @@
 
 # API
 ## TTS 
-* edge-tts
-* Azure TTS
-* GPT-SoVITS
-* 豆包语音合成
+* [edge-tts](https://github.com/rany2/edge-tts)
+* [Azure TTS](https://azure.microsoft.com/zh-cn/products/ai-services/text-to-speech)
+* [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+* [豆包语音合成](https://www.volcengine.com/docs/6561/1257543)
 
 ## 语音识别
-* Whisper
-* SenseVoice
-* snowboy (语音唤醒)
+* [Whisper](https://github.com/openai/whisper)
+* [SenseVoice](https://github.com/FunAudioLLM/SenseVoice)
+* [snowboy](https://github.com/Kitt-AI/snowboy) (语音唤醒)
 
 ## 各大模型接口集成
 openai / Claude / ollama / gemini / deepseek / qwen
 
 ## 视觉大模型
-* Qwen-VL 
+* [Qwen-VL](https://github.com/QwenLM/Qwen2.5-VL)
 
 # 产品化 
 使用系统中创建各种 prompt,知识库,tools等组件组合成一个应用(app)对外部进入对话与输出.
