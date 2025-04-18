@@ -2,8 +2,7 @@
 
 # Python (3.12)
 * [FastAPI](https://fastapi.tiangolo.com/)
-* conda
-https://www.anaconda.com/download/success
+* [conda](https://www.anaconda.com/download/success)
 ``` install environment
  conda create -n ai-learn python=3.12
  conda activate ai-learn
