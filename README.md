@@ -10,6 +10,7 @@
 
 
 ## [langchian](https://python.langchain.com/docs)
+https://python.langchain.com/docs/how_to/
  * openai (了解openai 接口和兼容的模型)
  * prompt ( input )
  * output ( sync,stream ) 
