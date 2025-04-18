@@ -1,4 +1,8 @@
 # 技术
+
+# Python
+* FastAPI
+
 ## langchian 
  * openai (了解openai 接口和兼容的模型)
  * prompt ( input )
