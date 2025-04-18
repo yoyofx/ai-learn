@@ -1,7 +1,14 @@
 # 技术
 
-# Python
+# Python (3.12)
 * FastAPI
+https://fastapi.tiangolo.com/zh/
+* conda
+https://www.anaconda.com/download/success
+``` install environment
+ conda create -n ai-learn python=3.12
+ conda activate ai-learn
+```
 
 ## langchian 
  * openai (了解openai 接口和兼容的模型)
