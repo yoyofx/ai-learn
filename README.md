@@ -1,6 +1,5 @@
 # 技术
 
-<<<<<<< HEAD
 # Python (3.12)
 * [FastAPI](https://fastapi.tiangolo.com/)
 * conda
